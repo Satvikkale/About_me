@@ -36,14 +36,16 @@
 ##  Projects  
 
 **[Pearl Export Website](#)**’ Responsive business website showcasing pearl farming & products.  
-**[NewsChaska]** ' React-based news app with API integration and responsive UI.  
+
+**[NewsChaska](#)** ' React-based news app with API integration and responsive UI.  
+
 **[Online Social Media Platform](#)** ’  Built a responsive online social media platform specially for fashion designer to discover their design work, focusing on clean UI design and seamless user experience.
 
-**)[Room Rental Website](#)** ’ Rental property website with authentication & MERN backend.  
+**[Room Rental Website](#)** ’ Rental property website with authentication & MERN backend.  
 
 **[Food Ordering System](#)** ' a responsive food ordering platform with menu browsing, payment management, and order placement.  
 
-**[To-Do List Mobile Web App]**’ Mobile-friendly To-Do list app.  
+**[To-Do List Mobile Web App](#)**’ Mobile-friendly To-Do list app.  
 
 ---
 
